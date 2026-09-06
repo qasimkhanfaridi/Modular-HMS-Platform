@@ -12,17 +12,19 @@
 
 ```
 M0  Requirements sign-off     ✅ DONE
-M1  Repo + DB foundation      ← YOU ARE HERE (next)
-M2  Auth + app shell
-M3  Patient registration + Vault
-M4  Check-in + Challan
-M5  Doctor consultation (EMR)
-M6  Medicine master + Rx
-M7  Staff Performance dashboard
-M8  UI polish + demo data
-M9  UAT + bug fixes
+M1  Repo + DB foundation      ✅ DONE
+M2  Auth + app shell           ✅ DONE
+M3  Patient registration + Vault ✅ DONE
+M4  Check-in + Challan         ✅ DONE
+M5  Doctor consultation (EMR)   ✅ DONE
+M6  Medicine master + Rx        ✅ DONE
+M7  Staff Performance dashboard ✅ DONE
+M8  UI polish + demo data      ✅ DONE
+M9  UAT + bug fixes            ← YOU ARE HERE
 M10 Demo-ready release
 ```
+
+**Code repository:** https://github.com/qasimkhanfaridi/AAQSOLS-HeartClinic-HMS
 
 **Total MVP duration:** 10 weeks (M1–M10)  
 **Team assumption:** 1 backend + 1 frontend developer in parallel

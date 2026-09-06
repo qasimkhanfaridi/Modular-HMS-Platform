@@ -2,7 +2,8 @@
 
 **Product name (working):** PulseCore HMS / AAQSOLS Heart Clinic  
 **Based on:** LOOM system demo (The Heart Clinic) — video + audio analysis  
-**Status:** M0 complete → **M1 next** (repo + database)  
+**Status:** M0–M8 complete → **M9 UAT / M10 demo release next**  
+**Code:** [AAQSOLS-HeartClinic-HMS](https://github.com/qasimkhanfaridi/AAQSOLS-HeartClinic-HMS)  
 **Company:** AAQSOLS
 
 ---
