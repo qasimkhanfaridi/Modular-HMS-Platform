@@ -8,7 +8,8 @@
 | What | Path |
 |------|------|
 | **Working folder (USE THIS)** | `C:\Users\Faridi\Project\AAQSOLS\Modular-HMS-Platform\` |
-| **Zip pack** | `C:\Users\Faridi\Project\AAQSOLS\PulseCore-HMS-AAQSOLS-Complete-Pack.zip` |
+| **Git repo** | Initialized on `main` — commit `4008c24` (80 files) |
+| **Zip pack (portable backup)** | `C:\Users\Faridi\Project\AAQSOLS\PulseCore-HMS-AAQSOLS-Complete-Pack.zip` (~34 MB) |
 | **Old laptop backup (archive)** | `E:\Old laptop complete\persnal\Modular-HMS-Platform\` |
 | **Old path** | ~~`D:\persnal\`~~ — previous laptop only |
 | **LOOM demo (video)** | `C:\Users\Faridi\Downloads\__ LOOM __... 2026-09-05 14-10-05.mp4` |
