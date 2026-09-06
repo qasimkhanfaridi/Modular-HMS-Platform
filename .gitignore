@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Build output
+bin/
+obj/
+dist/
+build/
+*.dll
+*.exe
+
+# IDE / OS
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+appsettings.Development.json
+appsettings.Local.json
+
+# Logs & temp
+*.log
+*.tmp
+~$*
+
+# Large media (keep in Downloads, not repo)
+*.mp4
+*.m4a
+*.wav
